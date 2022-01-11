@@ -1,0 +1,8 @@
+Technológia: Vezetékes
+Frekvencia átvitel (Hz)	15-25000
+Csatlakozás: 3.5 mm csatlakozó
+Impedancia: 60 Ohm
+Mikrofon: Igen
+Kábel hossza: 3 méter
+5.1 és 7.1 hangrendszer
+Ár: 25 999

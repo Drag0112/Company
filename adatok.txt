@@ -1,0 +1,5 @@
+sata 3:Gembird SATA3 - SATA3 0,3m piros adatkábel (CC-SATAM-DATA90-0.3M)
+Kábel hosszúság (cm): 30
+Funkció: Adatkábel
+Csatlakozó A: 1x SATA 3 apa
+Csatlakozó B: 1x SATA 3 apa

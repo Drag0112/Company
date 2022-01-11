@@ -1,1 +1,16 @@
 body{background-color: black;}
+#kep{
+    width: 400px;
+    height: 300;
+}
+.table{
+    -webkit-border-horizontal-spacing:200px;
+    -webkit-border-vertical-spacing: 50px;
+
+    margin: auto;
+    
+}
+#td {
+
+}
+
